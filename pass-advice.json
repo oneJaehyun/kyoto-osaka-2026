@@ -1,0 +1,38 @@
+{
+  "d1": {
+    "verdict": "1일권 사지 않기",
+    "amount": "패스에 포함되는 교토 지하철은 1인 ¥520 / 4,680원",
+    "detail": "HARUKA·한큐·JR은 교토 지하철·버스 1일권에 포함되지 않습니다. 지하철 2회만으로 ¥1,100짜리 패스를 살 이유가 없음.",
+    "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html"
+  },
+  "d2": {
+    "verdict": "현재 계획은 IC카드로",
+    "amount": "시버스 3회: 1인 ¥690 / 6,210원 · 패스 ¥1,100 / 9,900원",
+    "detail": "은각사행 1회 + 청수사행 환승 2회. 버스만 5회 타면 ¥1,150이 되어 패스가 ¥50 저렴합니다. 걷는 구간을 추가 승차로 바꿀 때만 재계산.",
+    "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html"
+  },
+  "d3": {
+    "verdict": "교토·오사카 1일권 모두 불필요",
+    "amount": "게이한 중심 + Osaka Metro 1회 ¥190 / 1,710원",
+    "detail": "오사카 엔조이 에코카드는 게이한·JR·남해에 적용되지 않습니다. 이날 오사카 지하철 1회만 예정이라 IC카드가 유리.",
+    "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+  },
+  "d4": {
+    "verdict": "추가 지하철을 탈 예정이면 당일 구매",
+    "amount": "예정 2회: 1인 ¥430 / 3,870원 · 일요일 패스 ¥620 / 5,580원",
+    "detail": "제라도 → 숙소도 지하철로 바꾸면 ¥620으로 패스와 동일. 그 뒤 호텔↔난바 등 한 번 더 타면 패스가 이득입니다. 도보 복귀를 유지하면 IC카드가 ¥190 저렴.",
+    "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+  },
+  "d4b": {
+    "verdict": "우동 대안을 고르면 첫 승차 전 구매해도 좋음",
+    "amount": "예정 3회: 1인 ¥620 · 일요일 패스 ¥620 / 5,580원",
+    "detail": "예정 운임과 패스 가격이 같습니다. 추가 승차에 부담이 없으므로 난바 → 히고바시 첫 지하철을 타기 전 패스 구매 추천. 2인 ¥1,240 / 11,160원.",
+    "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+  },
+  "d5": {
+    "verdict": "현재 계획은 IC카드로",
+    "amount": "예정 2회: 1인 ¥380 / 3,420원 · 공휴일 패스 ¥620 / 5,580원",
+    "detail": "10/12 월요일은 일본 스포츠의 날 공휴일이라 ¥620 적용. 짧은 구간 4회면 ¥760으로 패스가 유리해집니다. 공항행 남해·라피트는 포함되지 않음.",
+    "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "zen": {
+    "fee": "정원 ¥500 / 1인 4,500원 · 2인 ¥1,000 / 9,000원",
+    "hours": "정원 08:30–17:00 · 마지막 입장 16:50",
+    "note": "실내는 정원권에 +¥300/인: 08:30–16:45, 마지막 16:30. 법당 운룡도 별도 ¥500/인: 09:00–16:30, 마지막 16:20. 10/8은 운룡도 공개 기간에 해당. 늦게 도착하면 정원부터 관람.",
+    "url": "https://www.tenryuji.com/visit/",
+    "label": "공식 안내",
+    "adult": 500,
+    "checked": "2026-10-07"
+  },
+  "ginkaku": {
+    "fee": "¥1,000 / 1인 9,000원 · 2인 ¥2,000 / 18,000원",
+    "hours": "10월 08:30–17:00 · 입장 마감 17:00",
+    "note": "2026년 4월 1일 인상된 성인 요금. 17:20까지 퇴장. 은각 내부는 일반 공개하지 않음. 09:00 방문 계획은 운영시간 안에 해당.",
+    "url": "https://www.shokoku-ji.jp/ginkakuji/",
+    "label": "공식 안내",
+    "adult": 1000,
+    "checked": "2026-10-07"
+  },
+  "kiyo": {
+    "fee": "¥500 / 1인 4,500원 · 2인 ¥1,000 / 9,000원",
+    "hours": "10/9 06:00–18:00",
+    "note": "이번 방문일은 야간 특별관람 기간이 아님. 입장료는 본당 관람 기준. 산넨자카·니넨자카 산책은 무료.",
+    "url": "https://www.kiyomizudera.or.jp/access.php",
+    "label": "공식 안내",
+    "adult": 500,
+    "checked": "2026-10-07",
+    "feeSource": "https://ja.kyoto.travel/event/single.php?event_id=3730"
+  },
+  "tofuku": {
+    "fee": "통천교·개산당 ¥600 / 정원 ¥500 / 공통권 ¥1,000 · 모두 1인",
+    "hours": "10/10 09:00–16:00 · 접수 마감 16:00",
+    "note": "두 곳을 볼 경우 공통권: 2인 ¥2,000 / 18,000원. 통천교·개산당만 보면 2인 ¥1,200 / 10,800원. 11월 성수기 요금은 이번 날짜에 적용되지 않음.",
+    "url": "https://tofukuji.jp/guide/",
+    "label": "공식 안내",
+    "adult": 1000,
+    "checked": "2026-10-07"
+  },
+  "tower": {
+    "fee": "¥1,000 / 1인 9,000원 · 2인 ¥2,000 / 18,000원",
+    "hours": "10:00–21:00 · 마지막 입장 20:30",
+    "note": "선택 야경 일정. 저녁 식사가 늦어지면 20:30 입장 마감에 맞출 수 있는지 확인.",
+    "url": "https://www.kyoto-tower.jp/fee/",
+    "label": "공식 안내",
+    "adult": 1000,
+    "checked": "2026-10-07"
+  },
+  "boat": {
+    "fee": "¥2,000 / 1인 18,000원 · 2인 ¥4,000 / 36,000원",
+    "hours": "11:00–21:00 출항 · 매시 00분/30분 · 약 20분",
+    "note": "10/10 20:30편 목표. 일부 편 온라인 사전 예약 가능. 날씨·수위에 따라 운휴할 수 있음. 놓치면 다음 날 도톤보리에서 탑승.",
+    "url": "https://www.ipponmatsu.co.jp/cruise/tombori.html",
+    "label": "공식 안내",
+    "adult": 2000,
+    "checked": "2026-10-07"
+  },
+  "inari": {
+    "fee": "무료 · 본전·센본도리이 산책",
+    "hours": "폐문 없음 · 낮/밤 참배 가능",
+    "note": "굿즈·부적 수여소는 08:00–18:00 안내. 낮에 짧은 코스로 관람하는 현재 일정 유지.",
+    "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=448",
+    "label": "교토시 관광 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "yasaka": {
+    "fee": "무료 · 경내 참배",
+    "hours": "경내 24시간 · 사무소 09:00–17:00",
+    "note": "기도 접수 09:00–16:00. 경내 산책만 하는 일정은 별도 입장권이 필요 없음.",
+    "url": "https://www.yasaka-jinja.or.jp/sanpai/?display=sp",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "bridge": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "bamboo": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "path": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "sannen": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "ninen": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "gion": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "ponto": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "doton": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "ame": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "horie": {
+    "fee": "무료 · 거리/공공 산책로",
+    "hours": "산책 구간에 정해진 영업시간 없음",
+    "note": "상점·카페는 각자 영업시간이 다름.",
+    "url": "",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "mccoy": {
+    "fee": "입장료 없음 · 구매비 별도",
+    "hours": "12:00–20:00 · 수·목요일 휴무",
+    "note": "10/9 금요일 16시 이후 방문 계획은 정기 영업일에 해당.",
+    "url": "https://therealmccoys.com/pages/kyoto",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "kapital": {
+    "fee": "입장료 없음 · 구매비 별도",
+    "hours": "11:00–20:00",
+    "note": "KAPITAL K.K-POPPO 교토점 기준. 공식 페이지에 정기 휴무 명시 없음.",
+    "url": "https://www.kapital.jp/shop/detail/9.html",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "hinoya": {
+    "fee": "입장료 없음 · 구매비 별도",
+    "hours": "11:00–21:00",
+    "note": "난바파크스 4층. 10/10 17시 방문 계획은 운영시간 안에 해당. 시설 휴관은 난바파크스 공지 확인.",
+    "url": "https://hinoya-ameyoko.com/hinoya/tag/nambaparks/",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "katsu": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "11:00–21:00 · 마지막 주문 20:30 · 정기 휴무 없음",
+    "note": "",
+    "url": "https://www.katsukura.jp/shops/sanjo/",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "kyomen": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "11:30–21:00 · 마지막 주문 20:30 · 화요일 휴무",
+    "note": "",
+    "url": "https://gion-kyomen.net/",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "ino": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "11:00–14:30 / 17:30–21:00",
+    "note": "본점 기준. 번호표가 필요한 운영 방식: 저녁 방문 가능 시간을 확인하고, 표가 없으면 플랜 B로 전환.",
+    "url": "https://menyainoichi.net/about",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "ajino": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "화–일 11:00–22:00 · 월요일 휴무",
+    "note": "10/10 토요일 저녁 방문 가능. 임시 휴무는 공식 공지 확인.",
+    "url": "https://ajinoya-okonomiyaki.com/top/company/main-shop/",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "sushi": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "10/11 일요일 10:30–23:00 · 마지막 주문 22:30",
+    "note": "평일 11:00–23:00. 도톤보리점 한 접시 ¥170부터.",
+    "url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2769",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "chitose": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "10:00–14:30 · 화요일 휴무 · 재료 소진 시 종료",
+    "note": "10/12 월요일 영업일. 11시 전후 도착 권장: 오후로 미루면 품절 가능.",
+    "url": "https://www.chitose-nikusui.com/chitose/access.html",
+    "label": "공식 안내",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "zundou": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "24시간 영업 안내",
+    "note": "신사이바시점 기준. 월요일 이른 저녁 일정에 영업시간 제약 없음.",
+    "url": "https://shop.zundouya.com/stores/51",
+    "label": "공식 매장 안내의 인근 신사이바시점 정보",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "kitada": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "07:00–24:00 · 마지막 주문 23:30 · 부정기 휴무",
+    "note": "공식 계정에서 최신 영업시간을 확인하지 못해 식べログ 매장 정보를 참고.",
+    "url": "https://tabelog.com/kyoto/A2601/A260101/26036754/dtlmenu/",
+    "label": "식べログ · 공식 확인 미완료",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "kita": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "11:00–15:00 · 월·목요일 휴무 · 재료 소진 시 종료",
+    "note": "10/11 일요일 방문 가능. 11시 전후 도착 권장. 공식 계정의 최신 공지는 별도 확인 필요.",
+    "url": "https://tabelog.com/osaka/A2701/A270202/27103359/dtlmap",
+    "label": "식べログ · 공식 확인 미완료",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "mugi": {
+    "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+    "hours": "일요일 11:00–16:00 · 화요일 휴무",
+    "note": "우메다 기본 일정인 10/11 일요일 기준. 평일·토요일 시간표와 다름.",
+    "url": "https://tabelog.com/osaka/A2701/A270101/27104891/dtlmenu/photo/",
+    "label": "식べログ · 공식 확인 미완료",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "grenier": {
+    "fee": "입장료 없음 · 디저트 구매비 별도",
+    "hours": "우메다점 최신 영업시간 확정 못함",
+    "note": "소개 자료에 19시/20시 마감이 혼재하여 단정하지 않음. 현재 점심 이후 방문 계획으로 두고 출발 전 공식 계정 확인.",
+    "url": "https://www.instagram.com/patisserie_grenier/",
+    "label": "공식 계정 · 영업시간 확인 필요",
+    "adult": null,
+    "checked": "2026-10-07"
+  },
+  "play": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "11:00–21:00",
+    "note": "난바파크스 2층. PLAY 위주라는 요청에 맞춰 본라인 매장 방문은 추가하지 않음.",
+    "url": "https://nambaparks.com/shopresearch/93",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "jelado": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "일요일·공휴일 12:00–19:00 · 목요일 휴무",
+    "note": "2026년 8월부터 변경된 영업시간. 평일은 13:00부터. 10/11 일요일 15시 방문 계획.",
+    "url": "https://jelado.pro/pages/store-locater",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "kaposaka": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "10/11 일요일 10:00–20:00",
+    "note": "한큐 맨즈 오사카 5층. 평일 11:00–20:00.",
+    "url": "https://www.kapital.jp/shop/detail/10.html",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "vancleef": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "11:30–19:30",
+    "note": "착용 상담에 45–60분 확보. 공식 홈페이지에서 방문 예약 권장; 예약 완료 상태는 아님.",
+    "url": "https://www.vancleefarpels.com/jp/ja/boutique-detailed-page/%E5%BF%83%E6%96%8E%E6%A9%8B%E5%BA%97-%E3%83%95-%E3%83%A9%E3%82%A4%E3%82%BF-%E3%83%AB%E3%82%B5%E3%83%AD%E3%83%B3%E3%81%82%E3%82%8A-.html",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "tiffany": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "10:00–20:00",
+    "note": "PARCO 1층. 45–60분 둘러볼 시간 확보.",
+    "url": "https://shinsaibashi.parco.jp/shop/detail/?cd=026292",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "vivienne": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "11:00–20:00",
+    "note": "南船場4-12-12 플래그십. 45분 방문 계획.",
+    "url": "https://www.viviennewestwood.com/ja-jp/storedetails/?storeID=Osaka-Flagship-Shinsaibashi",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "suzume": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "토·일·공휴일 11:30–22:00 · 무휴",
+    "note": "평일은 11:30–16:30 / 18:00–22:00. 10/12는 스포츠의 날 공휴일이라 공식 주말·공휴일 운영시간 적용.",
+    "url": "https://suzume-group.co.jp/suzume/",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  },
+  "watanabe": {
+    "fee": "입장료 없음 · 구매/식사비 별도",
+    "hours": "우메다 본점: 일·공휴일 11:30–16:00 마지막 주문 · 토요일 휴무",
+    "note": "신사이바시점은 일요일 휴무이므로 10/11에는 우메다 본점으로 안내.",
+    "url": "https://watanabecurry.com/",
+    "label": "공식 안내",
+    "adult": 0,
+    "checked": "2026-10-07"
+  }
+}

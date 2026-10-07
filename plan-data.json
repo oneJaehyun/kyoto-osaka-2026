@@ -1,0 +1,2263 @@
+{
+  "points": {
+    "kix": {
+      "name": "간사이공항",
+      "desc": "입국·귀국 공항",
+      "lat": 34.4358,
+      "lon": 135.2439,
+      "q": "関西空港駅",
+      "food": null
+    },
+    "kyoto": {
+      "name": "교토역",
+      "desc": "HARUKA·JR 환승",
+      "lat": 34.98585,
+      "lon": 135.75877,
+      "q": "京都駅",
+      "food": null
+    },
+    "hotel": {
+      "name": "리솔 가와라마치 산조",
+      "desc": "교토 숙소·짐 보관",
+      "lat": 35.0083,
+      "lon": 135.7693,
+      "q": "ホテルリソル京都 河原町三条",
+      "food": null
+    },
+    "katsu": {
+      "name": "카츠쿠라 산조",
+      "desc": "돈카츠 정식: 돼지고기 튀김에 밥·국·양배추를 곁들이는 식사",
+      "lat": 35.0088672,
+      "lon": 135.7677105,
+      "q": "名代とんかつ かつくら 三条本店",
+      "food": "2인 예상 ¥4,000–7,000 · 3.6만–6.3만 원"
+    },
+    "bridge": {
+      "name": "도게츠교",
+      "desc": "강·산 풍경을 보는 다리",
+      "lat": 35.0095,
+      "lon": 135.6773,
+      "q": "渡月橋 京都",
+      "food": null
+    },
+    "zen": {
+      "name": "덴류지",
+      "desc": "선종 사찰·정원",
+      "lat": 35.0157,
+      "lon": 135.6738,
+      "q": "天龍寺 京都",
+      "food": null
+    },
+    "bamboo": {
+      "name": "대나무숲",
+      "desc": "대나무 사이 산책길",
+      "lat": 35.0171,
+      "lon": 135.6717,
+      "q": "嵐山 竹林の小径",
+      "food": null
+    },
+    "saga": {
+      "name": "사가아라시야마역",
+      "desc": "JR 사가노선 탑승",
+      "lat": 35.0188,
+      "lon": 135.6816,
+      "q": "JR 嵯峨嵐山駅",
+      "food": null
+    },
+    "foodhall": {
+      "name": "교토타워 지하 푸드홀",
+      "desc": "교토타워 건물 지하 1층의 여러 음식점과 공용 좌석이 모인 식사 공간. 료쇼 교자(일본식 군만두), 도리세이(닭꼬치·닭요리) 등을 현장에서 골라 먹는 선택 저녁.",
+      "lat": 34.9874,
+      "lon": 135.7593,
+      "q": "京都タワーサンド",
+      "food": "2인 전체 식사 예산 ¥2,500–5,000 · 22,500–45,000원. 특정 메뉴 가격이 아닌 예상 예산입니다."
+    },
+    "tower": {
+      "name": "교토타워",
+      "desc": "교토역 앞 전망대·선택 야경",
+      "lat": 34.9875,
+      "lon": 135.7593,
+      "q": "ニデック京都タワー",
+      "food": null
+    },
+    "inari": {
+      "name": "후시미이나리",
+      "desc": "붉은 도리이 길·신사",
+      "lat": 34.9671,
+      "lon": 135.7727,
+      "q": "伏見稲荷大社",
+      "food": null
+    },
+    "kiyo": {
+      "name": "청수사",
+      "desc": "목조 무대·도시 전망·사찰",
+      "lat": 34.9949,
+      "lon": 135.785,
+      "q": "清水寺 京都",
+      "food": null
+    },
+    "sannen": {
+      "name": "산넨자카",
+      "desc": "전통 상점·돌계단 골목",
+      "lat": 34.9958,
+      "lon": 135.7809,
+      "q": "産寧坂 京都",
+      "food": null
+    },
+    "ninen": {
+      "name": "니넨자카",
+      "desc": "전통 거리·카페 골목",
+      "lat": 34.9984,
+      "lon": 135.7808,
+      "q": "二寧坂 京都",
+      "food": null
+    },
+    "kyomen": {
+      "name": "기온 쿄멘",
+      "desc": "우동: 유부·닭고기·카레 등 토핑을 고르는 일본식 굵은 면 요리",
+      "lat": 35.0034,
+      "lon": 135.7781,
+      "q": "祇園 京めん",
+      "food": "우동 두 그릇 ¥2,160–3,740 · 19,440–33,660원. 추가 메뉴 별도."
+    },
+    "yasaka": {
+      "name": "야사카신사",
+      "desc": "기온 옆 대표 신사",
+      "lat": 35.0037,
+      "lon": 135.7785,
+      "q": "八坂神社 京都",
+      "food": null
+    },
+    "gion": {
+      "name": "기온",
+      "desc": "전통 건물·찻집 거리",
+      "lat": 35.0031,
+      "lon": 135.7752,
+      "q": "祇園 花見小路",
+      "food": null
+    },
+    "ino": {
+      "name": "이노이치",
+      "desc": "생선·해산물로 우린 국물의 라멘. 선택 저녁",
+      "lat": 35.0013282,
+      "lon": 135.7669396,
+      "q": "麺屋 猪一",
+      "food": "2인 예상 ¥3,600–6,000 · 3.24만–5.4만 원"
+    },
+    "ponto": {
+      "name": "폰토초",
+      "desc": "강변 식당·전통 골목",
+      "lat": 35.0063,
+      "lon": 135.7709,
+      "q": "先斗町 京都",
+      "food": null
+    },
+    "osaka": {
+      "name": "VIA INN 신사이바시",
+      "desc": "오사카 숙소·짐 보관",
+      "lat": 34.675,
+      "lon": 135.4987,
+      "q": "ヴィアイン心斎橋",
+      "food": null
+    },
+    "ajino": {
+      "name": "아지노야",
+      "desc": "오코노미야키(고기·양배추 등을 넣은 철판 부침)·야키소바(철판 볶음면)",
+      "lat": 34.668065,
+      "lon": 135.500976,
+      "q": "味乃家 本店",
+      "food": "공식 두 접시 ¥3,760 / 2인 B세트 ¥5,340"
+    },
+    "doton": {
+      "name": "도톤보리",
+      "desc": "강변 네온·글리코 간판",
+      "lat": 34.6687,
+      "lon": 135.5013,
+      "q": "道頓堀 グリコサイン",
+      "food": null
+    },
+    "kita": {
+      "name": "키타타케 우동",
+      "desc": "가는 면을 사용하는 우동·튀김 곁들임",
+      "lat": 34.6627495,
+      "lon": 135.504338,
+      "q": "き田たけうどん",
+      "food": "2인 예상 ¥2,000–3,600 · 1.8만–3.24만 원"
+    },
+    "ame": {
+      "name": "아메리카무라",
+      "desc": "거리 문화·빈티지 상점",
+      "lat": 34.6725,
+      "lon": 135.4983,
+      "q": "アメリカ村",
+      "food": null
+    },
+    "horie": {
+      "name": "호리에",
+      "desc": "편집숍·카페 거리",
+      "lat": 34.6722,
+      "lon": 135.4942,
+      "q": "堀江 オレンジストリート",
+      "food": null
+    },
+    "sushi": {
+      "name": "스시로 도톤보리",
+      "desc": "회전초밥: 접시별 주문으로 원하는 만큼 먹는 식사",
+      "lat": 34.6684287,
+      "lon": 135.50246,
+      "q": "スシロー 道頓堀店",
+      "food": "최저 접시 공식 ¥170– / 2인 예상 ¥3,000–5,000"
+    },
+    "chitose": {
+      "name": "치토세 본점",
+      "desc": "니쿠스이(소고기와 두부를 넣은 맑은 국)·작은 달걀밥",
+      "lat": 34.6640775,
+      "lon": 135.5040056,
+      "q": "千とせ 本店",
+      "food": "2인 예상 ¥2,200–3,000 · 1.98만–2.7만 원"
+    },
+    "zundou": {
+      "name": "준도야 신사이바시",
+      "desc": "돈코츠 라멘: 돼지뼈로 우린 진한 국물의 라멘. 공항 이동 전 이른 저녁",
+      "lat": 34.6720725,
+      "lon": 135.5019898,
+      "q": "ラー麺ずんどう屋 心斎橋店",
+      "food": "2인 예상 ¥2,000–3,200 · 1.8만–2.88만 원"
+    },
+    "namba": {
+      "name": "남해 난바역",
+      "desc": "공항열차 탑승·Metro와 구별",
+      "lat": 34.6637,
+      "lon": 135.5019,
+      "q": "南海 なんば駅",
+      "food": null
+    },
+    "mugi": {
+      "name": "무기토 멘스케",
+      "desc": "간장 국물 라멘. 우메다 기본 일정의 나카쓰 식당",
+      "lat": 34.7113432,
+      "lon": 135.5000039,
+      "q": "麦と麺助",
+      "food": "2인 예상 ¥4,000–6,000 · 3.6만–5.4만 원"
+    },
+    "grenier": {
+      "name": "grenier",
+      "desc": "밀푀유(겹겹의 페이스트리에 크림을 넣은 디저트)·구움과자. 식사 대신 간식",
+      "lat": 34.704,
+      "lon": 135.4988,
+      "q": "grenier 梅田",
+      "food": "2인 디저트·음료 예상 ¥2,400–3,600 · 21,600–32,400원"
+    },
+    "mccoy": {
+      "name": "교토 리얼맥코이",
+      "desc": "아메카지·밀리터리 의류 / 금요일 12–20시",
+      "lat": 35.004,
+      "lon": 135.7665,
+      "q": "THE REAL McCOYS 京都",
+      "food": null
+    },
+    "kapital": {
+      "name": "캐피탈 교토",
+      "desc": "데님·의류 / 저장 핀 주소 Iseyacho 352",
+      "lat": 35.0055,
+      "lon": 135.7665,
+      "q": "KAPITAL 京都",
+      "food": null
+    },
+    "hinoya": {
+      "name": "HINOYA 난바파크스",
+      "desc": "4F · 버즈릭슨 BR41860/BR41860A 구매·피팅",
+      "lat": 34.66103,
+      "lon": 135.50182,
+      "q": "ヒノヤ なんばパークス",
+      "food": null
+    },
+    "boat": {
+      "name": "도톤보리 크루즈",
+      "desc": "20분 유람선 · 2인 ¥4,000 / 36,000원",
+      "lat": 34.6692,
+      "lon": 135.5032,
+      "q": "太左衛門橋船着場",
+      "food": null
+    },
+    "ginkaku": {
+      "name": "은각사",
+      "desc": "선종 사찰·정원·모래 정원",
+      "lat": 35.027,
+      "lon": 135.798,
+      "q": "銀閣寺 京都",
+      "food": null
+    },
+    "path": {
+      "name": "철학의 길",
+      "desc": "운하를 따라 걷는 산책길",
+      "lat": 35.02,
+      "lon": 135.792,
+      "q": "哲学の道 京都",
+      "food": null
+    },
+    "tofuku": {
+      "name": "도후쿠지",
+      "desc": "선종 사찰·통천교·계곡 풍경",
+      "lat": 34.976,
+      "lon": 135.774,
+      "q": "東福寺 京都",
+      "food": null
+    },
+    "kitada": {
+      "name": "카이다시멘 키타다",
+      "desc": "보내주신 맛집 목록에서 선택. 조개 육수 라멘(貝だし麺)이 대표 메뉴. 아라시야마에서 JR로 교토역에 돌아온 뒤 들르는 첫날 저녁 후보. 웨이팅이 길면 산조 호텔 근처 미요시로 전환.",
+      "lat": 34.98727,
+      "lon": 135.754754,
+      "q": "貝だし麺 きた田 京都",
+      "food": "2인 예상 ¥2,000–4,000 · 18,000–36,000원. 라멘 2그릇·추가 토핑에 따른 예산이며 최신 확정 메뉴 가격은 아닙니다."
+    },
+    "play": {
+      "name": "꼼데가르송 PLAY · 난바파크스",
+      "desc": "하트 로고 티셔츠·가디건을 보는 매장 · 2층. HINOYA 4층과 한 건물에서 쇼핑.",
+      "lat": 34.66103,
+      "lon": 135.50182,
+      "q": "プレイ・コム デ ギャルソン なんばパークス",
+      "food": null
+    },
+    "jelado": {
+      "name": "JELADO WEST",
+      "desc": "아메리칸 캐주얼·데님 매장 · 京町堀1-11-7 京旺빌딩 4D. 건물 안 4층으로 올라가기.",
+      "lat": 34.687702,
+      "lon": 135.494965,
+      "q": "JELADO WEST 京町堀1-11-7",
+      "food": null
+    },
+    "kaposaka": {
+      "name": "KAPITAL · 오사카 ABCD",
+      "desc": "캐피탈 오사카점 · 우메다 한큐 맨즈 5층. 같은 층 BAZAAR KAPITAL도 함께 확인 가능.",
+      "lat": 34.702797,
+      "lon": 135.499786,
+      "q": "KAPITAL OSAKA ABCD STORE 阪急メンズ大阪",
+      "food": null
+    },
+    "vancleef": {
+      "name": "반클리프 앤 아펠 · 신사이바시",
+      "desc": "주얼리 부티크 · 알함브라 등 착용·상담. 예약 방문 권장.",
+      "lat": 34.674896,
+      "lon": 135.500824,
+      "q": "ヴァンクリーフアーペル 心斎橋店",
+      "food": null
+    },
+    "tiffany": {
+      "name": "티파니 · 신사이바시 PARCO",
+      "desc": "주얼리 매장 · PARCO 1층. 반클리프에서 가까워 묶어서 방문.",
+      "lat": 34.674038,
+      "lon": 135.501312,
+      "q": "ティファニー 心斎橋パルコ店",
+      "food": null
+    },
+    "vivienne": {
+      "name": "비비안 웨스트우드 · 신사이바시",
+      "desc": "남선바 플래그십 · 의류·액세서리를 보는 매장. 난바파크스 RED LABEL과 구분.",
+      "lat": 34.675407,
+      "lon": 135.498199,
+      "q": "Vivienne Westwood 心斎橋 南船場4-12-12",
+      "food": null
+    },
+    "suzume": {
+      "name": "츠케멘 스즈메",
+      "desc": "저장 목록 · 돼지뼈·고등어 육수에 면을 찍어 먹는 츠케멘. 아메리카무라·호리에에서 돌아올 때 식사 대안.",
+      "lat": 34.6711874,
+      "lon": 135.49785219999998,
+      "q": "つけ麺 雀 アメ村本店",
+      "food": "2인 식사 예산 ¥2,000–3,200 · 18,000–28,800원 (메뉴 확정가 아님)"
+    },
+    "watanabe": {
+      "name": "Watanabe Curry",
+      "desc": "저장 목록 · 스리랑카 스파이스와 일본식 다시를 섞은 카레·키마카레. 우메다 점심 플랜 B.",
+      "lat": 34.6979833,
+      "lon": 135.4948257,
+      "q": "渡邊咖喱 梅田本店",
+      "food": "2인 식사 예산 ¥3,000–4,000 · 27,000–36,000원 (메뉴 확정가 아님)"
+    }
+  },
+  "days": [
+    {
+      "id": "d1",
+      "date": "10/8 (목)",
+      "title": "짐은 호텔에, 오후는 서쪽으로",
+      "subtitle": "산조 호텔 → 아라시야마 → 선택 야경",
+      "color": "#a54a30",
+      "local": [
+        "hotel",
+        "katsu",
+        "bridge",
+        "zen",
+        "bamboo",
+        "saga",
+        "kitada",
+        "tower"
+      ],
+      "legs": [
+        {
+          "a": "kix",
+          "b": "kyoto",
+          "mode": "rail",
+          "note": "HARUKA 외국인 단기체류 할인권 · 일반 창구 운임 아님",
+          "low": 4400,
+          "high": 4400,
+          "source": "haruka",
+          "alt": null,
+          "time": "열차 약 75–85분 / 공항 역 접근·대기 포함 95–120분"
+        },
+        {
+          "a": "kyoto",
+          "b": "hotel",
+          "mode": "rail",
+          "note": "가라스마선 교토 → 가라스마오이케 환승 → 도자이선 교토시야쿠쇼마에 → 도보 · 1인 ¥260",
+          "low": 520,
+          "high": 520,
+          "source": "kyotometro",
+          "alt": null,
+          "time": "지하철 승차·환승 약 15–20분 / 접근·대기·도보 포함 25–40분"
+        },
+        {
+          "a": "hotel",
+          "b": "katsu",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–8분"
+        },
+        {
+          "a": "katsu",
+          "b": "bridge",
+          "mode": "rail",
+          "note": "도보 → 한큐 교토가와라마치 → 가쓰라 환승 → 아라시야마 → 도보 · 1인 ¥240",
+          "low": 480,
+          "high": 480,
+          "source": "hankyuA",
+          "alt": null,
+          "time": "한큐 승차·환승 약 20–35분 / 양쪽 도보 포함 50–70분"
+        },
+        {
+          "a": "bridge",
+          "b": "zen",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 12–20분"
+        },
+        {
+          "a": "zen",
+          "b": "bamboo",
+          "mode": "walk",
+          "note": "덴류지 북문 이용은 현장 확인",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–10분"
+        },
+        {
+          "a": "bamboo",
+          "b": "saga",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 15–23분"
+        },
+        {
+          "a": "saga",
+          "b": "kitada",
+          "mode": "rail",
+          "note": "JR 사가아라시야마 → 교토역 → 서쪽 출구 쪽으로 이동 → 카이다시멘 키타다 도보 약 5–10분. 1인 JR ¥240.",
+          "low": 480,
+          "high": 480,
+          "source": "jr",
+          "alt": null,
+          "time": "JR·대기·식당까지 도보 포함 약 30–45분"
+        },
+        {
+          "a": "kitada",
+          "b": "tower",
+          "mode": "walk",
+          "note": "식사 후 교토타워까지 도보 약 8–12분. 전망대는 선택.",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 약 8–12분"
+        },
+        {
+          "a": "tower",
+          "b": "hotel",
+          "mode": "rail",
+          "note": "가라스마선 교토 → 가라스마오이케 환승 → 도자이선 교토시야쿠쇼마에 → 도보 · 1인 ¥260",
+          "low": 520,
+          "high": 520,
+          "source": "kyotometro",
+          "alt": null,
+          "time": "지하철·도보 약 25–40분"
+        }
+      ],
+      "tip": "저녁은 저장 목록의 카이다시멘 키타다(조개 육수 라멘)를 우선 후보로 둡니다. 30분 넘게 기다려야 하면 교토타워 야경을 먼저 보고 산조 호텔로 돌아와 목록의 미요시(돈코츠 라멘)로 전환. 푸드홀은 대표 맛집에서 제외했습니다."
+    },
+    {
+      "id": "d2",
+      "date": "10/9 (금)",
+      "title": "은각사에서 청수사, 기온까지",
+      "subtitle": "은각사 → 철학의 길 → 청수사 → 기온 → 리얼맥코이·캐피탈",
+      "color": "#486b54",
+      "local": [
+        "hotel",
+        "ginkaku",
+        "path",
+        "kiyo",
+        "sannen",
+        "ninen",
+        "kyomen",
+        "yasaka",
+        "gion",
+        "mccoy",
+        "kapital",
+        "ino",
+        "ponto"
+      ],
+      "legs": [
+        {
+          "a": "hotel",
+          "b": "ginkaku",
+          "mode": "bus",
+          "note": "호텔 → 삼조 게이한 앞(三条京阪前) 정류장 도보 약 7–10분 → 시버스 5번 「銀閣寺・岩倉」 방면 → 은각사도(銀閣寺道) 하차 → 은각사 입구 도보 약 10분. 1인 ¥230.",
+          "low": 460,
+          "high": 460,
+          "time": "도보·대기 포함 약 40–55분",
+          "source": "bus5",
+          "alt": null
+        },
+        {
+          "a": "ginkaku",
+          "b": "path",
+          "mode": "walk",
+          "note": "은각사 앞에서 철학의 길로 진입해 남쪽으로 산책. 전체 구간은 약 2km. 남쪽 끝에서 南禅寺・永観堂道 정류장까지 추가 도보 약 10–15분.",
+          "low": 0,
+          "high": 0,
+          "time": "산책 약 45–60분",
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "path",
+          "b": "kiyo",
+          "mode": "bus",
+          "note": "南禅寺・永観堂道 → 시버스 5번 「三条京阪・京都駅」 방면 → 東山三条 하차 → 남쪽 방향 206번 「清水寺・京都駅」 방면으로 환승 → 五条坂 하차 → 청수사 입구 언덕 도보 약 15–20분. 버스 2회, 1인 ¥460. 교통 혼잡 시 지연될 수 있습니다.",
+          "low": 920,
+          "high": 920,
+          "time": "대기·환승·언덕 포함 약 50–70분",
+          "source": "bus206",
+          "alt": null
+        },
+        {
+          "a": "kiyo",
+          "b": "sannen",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 4–12분"
+        },
+        {
+          "a": "sannen",
+          "b": "ninen",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 3–11분"
+        },
+        {
+          "a": "ninen",
+          "b": "kyomen",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 9–17분"
+        },
+        {
+          "a": "kyomen",
+          "b": "yasaka",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–8분"
+        },
+        {
+          "a": "yasaka",
+          "b": "gion",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 3–11분"
+        },
+        {
+          "a": "gion",
+          "b": "mccoy",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 12–20분"
+        },
+        {
+          "a": "mccoy",
+          "b": "kapital",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–8분"
+        },
+        {
+          "a": "kapital",
+          "b": "hotel",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 5–13분"
+        },
+        {
+          "a": "hotel",
+          "b": "ino",
+          "mode": "walk",
+          "note": "휴식 후 선택 외출",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 12–20분"
+        },
+        {
+          "a": "ino",
+          "b": "ponto",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 10–18분"
+        },
+        {
+          "a": "ponto",
+          "b": "hotel",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–10분"
+        }
+      ],
+      "tip": "08:00 출발 권장. 버스 지연에 대비해 오전 이동에 여유를 둡니다. 남쪽으로 내려오며 관광하고 쇼핑은 16시 이후 진행합니다. 이노이치·폰토초는 체력에 따라 선택합니다.",
+      "extras": [
+        "mccoy",
+        "kapital"
+      ]
+    },
+    {
+      "id": "d3",
+      "date": "10/10 (토)",
+      "title": "짐은 호텔에, 이나리와 도후쿠지",
+      "subtitle": "산조 호텔 → 후시미이나리 → 도후쿠지 → 호텔 짐 회수 → 오사카",
+      "color": "#a54a30",
+      "local": [
+        "hotel",
+        "inari",
+        "tofuku",
+        "osaka",
+        "hinoya",
+        "play",
+        "ajino",
+        "boat",
+        "doton"
+      ],
+      "legs": [
+        {
+          "a": "hotel",
+          "b": "inari",
+          "mode": "rail",
+          "note": "호텔 → 게이한 산조역 도보 → 남행 일반열차 중 「伏見稲荷」 정차 열차 승차 → 후시미이나리역 하차 → 신사 도보 약 5분. 특급은 이 역에 서지 않으므로 승차 전 정차역 확인. 1인 ¥240.",
+          "low": 480,
+          "high": 480,
+          "time": "약 30–45분",
+          "source": "keihan",
+          "alt": null
+        },
+        {
+          "a": "inari",
+          "b": "tofuku",
+          "mode": "rail",
+          "note": "신사 → 게이한 후시미이나리역 → 데마치야나기 방면 일반열차 → 도후쿠지역 하차 → 사찰 입구 도보 약 10–15분. 1인 ¥180. 점심 시간은 이동시간과 별도로 확보합니다.",
+          "low": 360,
+          "high": 360,
+          "time": "약 20–30분",
+          "source": "keihan",
+          "alt": null
+        },
+        {
+          "a": "tofuku",
+          "b": "hotel",
+          "mode": "rail",
+          "note": "사찰 → 도후쿠지역 도보 → 게이한 데마치야나기 방면 → 산조역 하차 → 호텔 도보. 맡긴 짐 회수에 약 10–15분 추가. 1인 ¥240.",
+          "low": 480,
+          "high": 480,
+          "time": "짐 회수 포함 약 35–50분",
+          "source": "keihan",
+          "alt": null
+        },
+        {
+          "a": "hotel",
+          "b": "osaka",
+          "mode": "rail",
+          "note": "호텔 → 게이한 산조역 → 요도야바시행 특급 일반칸(프리미엄카 제외) → 요도야바시 하차(¥490) → Osaka Metro 미도스지선 덴노지·나카모즈 방면 → 신사이바시 하차(¥190) → 호텔 도보. 1인 합계 ¥680.",
+          "low": 1360,
+          "high": 1360,
+          "time": "호텔 간 약 80–100분",
+          "source": "keihannew",
+          "alt": null
+        },
+        {
+          "a": "osaka",
+          "b": "hinoya",
+          "mode": "walk",
+          "note": "난바파크스 구매·피팅 시간 60–90분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 26–34분"
+        },
+        {
+          "a": "hinoya",
+          "b": "play",
+          "mode": "walk",
+          "note": "HINOYA 4층 → PLAY 2층. 쇼핑 시간은 별도 30분.",
+          "time": "같은 건물 층 이동 약 3–8분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "play",
+          "b": "ajino",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 12–20분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "ajino",
+          "b": "boat",
+          "mode": "walk",
+          "note": "20:30 전후 승선 목표. 저녁 대기·운항 상황에 따라 다음 날로 이동. 일부 편 온라인 예약 가능; 현재 미예약.",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–10분"
+        },
+        {
+          "a": "boat",
+          "b": "doton",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 2–9분"
+        },
+        {
+          "a": "doton",
+          "b": "osaka",
+          "mode": "walk",
+          "note": "도보",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null,
+          "time": "도보 계획 약 11–19분"
+        }
+      ],
+      "tip": "오사카 도착일은 HINOYA와 PLAY를 난바파크스 한 건물에서 방문. 19시 저녁을 지키고, 대기가 길면 마키노·스시로로 전환. 크루즈는 20:30 목표; 여유가 없거나 매진이면 10/11 저녁으로 이동.",
+      "extras": [
+        "hinoya",
+        "play",
+        "boat"
+      ]
+    },
+    {
+      "id": "d4",
+      "date": "10/11 (일)",
+      "title": "우메다·제라도 쇼핑, 끼니는 먼저",
+      "subtitle": "나카쓰 라멘 → 캐피탈 우메다 → 그루니에 → 제라도 WEST → 도톤보리 저녁",
+      "color": "#486b54",
+      "local": [
+        "osaka",
+        "mugi",
+        "kaposaka",
+        "grenier",
+        "jelado",
+        "sushi"
+      ],
+      "legs": [
+        {
+          "a": "osaka",
+          "b": "mugi",
+          "mode": "rail",
+          "note": "신사이바시역 → 미도스지선 에사카·센리추오 방면 → 나카쓰역 하차 → 매장 도보. 1인 ¥240.",
+          "time": "접근·대기·도보 포함 약 25–40분",
+          "low": 480,
+          "high": 480,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "mugi",
+          "b": "kaposaka",
+          "mode": "walk",
+          "note": "남쪽 우메다 방향 → 한큐 맨즈 5층. 캐피탈 쇼핑 60–75분 별도.",
+          "time": "도보 약 15–25분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "kaposaka",
+          "b": "grenier",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 5–10분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "grenier",
+          "b": "jelado",
+          "mode": "rail",
+          "note": "니시우메다역까지 도보 → 요쓰바시선 스미노에코엔 방면 → 히고바시역 하차 → 京町堀1-11-7 도보. 1인 ¥190.",
+          "time": "약 25–40분",
+          "low": 380,
+          "high": 380,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "jelado",
+          "b": "osaka",
+          "mode": "walk",
+          "note": "본町 방향을 거쳐 호텔로. 피곤하면 히고바시 → 요쓰바시역 지하철 ¥190/인 후 호텔 도보.",
+          "time": "도보 약 30–40분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "osaka",
+          "b": "sushi",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 15–25분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "sushi",
+          "b": "osaka",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 15–25분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        }
+      ],
+      "tip": "캐피탈은 우메다에 있어 기존 우메다 선택 코스를 기본안으로 변경. 라멘 대기가 30분을 넘으면 저장 목록의 와타나베 카레 우메다 본점으로 전환. 그루니에와 타카무라는 둘 중 한 곳만 쉬어가기. 크루즈를 전날 못 탔다면 저녁 식사 후 탑승."
+    },
+    {
+      "id": "d4b",
+      "date": "10/11 (일)",
+      "title": "점심 대안 · 키타타케 우동",
+      "subtitle": "난바 우동 → 제라도 WEST → 캐피탈 우메다 → 도톤보리 저녁",
+      "color": "#8c6a31",
+      "local": [
+        "osaka",
+        "kita",
+        "jelado",
+        "kaposaka",
+        "grenier",
+        "sushi"
+      ],
+      "legs": [
+        {
+          "a": "osaka",
+          "b": "kita",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 25–35분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "kita",
+          "b": "jelado",
+          "mode": "rail",
+          "note": "요쓰바시선 난바역까지 도보 → 니시우메다 방면 → 히고바시 하차 → 제라도 도보. 1인 ¥190.",
+          "time": "약 30–45분",
+          "low": 380,
+          "high": 380,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "jelado",
+          "b": "kaposaka",
+          "mode": "rail",
+          "note": "히고바시역 → 요쓰바시선 니시우메다행 → 종점 하차 → 한큐 맨즈 도보. 1인 ¥190.",
+          "time": "약 25–40분",
+          "low": 380,
+          "high": 380,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "kaposaka",
+          "b": "grenier",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 5–10분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "grenier",
+          "b": "sushi",
+          "mode": "rail",
+          "note": "우메다역 → 미도스지선 덴노지·나카모즈 방면 → 난바역 → 도톤보리 도보. 1인 ¥240.",
+          "time": "약 25–40분",
+          "low": 480,
+          "high": 480,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "sushi",
+          "b": "osaka",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 15–25분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        }
+      ],
+      "tip": "10/11 기본안의 점심을 키타타케 우동으로 바꾸는 경우만 선택. 기본안과 같은 날 모두 먹는 일정이 아님. 제라도·캐피탈 방문은 유지하고 이동이 늘어남."
+    },
+    {
+      "id": "d5",
+      "date": "10/12 (월)",
+      "title": "아내 쇼핑·호리에 선택, 공항으로",
+      "subtitle": "치토세 → 반클리프 → 티파니 → 비비안 → 오렌지스트리트 선택 → 저녁·공항",
+      "color": "#a54a30",
+      "local": [
+        "osaka",
+        "chitose",
+        "vancleef",
+        "tiffany",
+        "vivienne",
+        "horie",
+        "zundou",
+        "namba"
+      ],
+      "legs": [
+        {
+          "a": "osaka",
+          "b": "chitose",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 25–35분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "chitose",
+          "b": "vancleef",
+          "mode": "rail",
+          "note": "난바역까지 도보 → 미도스지선 에사카·센리추오 방면 → 신사이바시역 → 반클리프 도보. 1인 ¥190.",
+          "time": "약 20–30분",
+          "low": 380,
+          "high": 380,
+          "source": "metro",
+          "alt": null
+        },
+        {
+          "a": "vancleef",
+          "b": "tiffany",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 3–6분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "tiffany",
+          "b": "vivienne",
+          "mode": "walk",
+          "note": "도보",
+          "time": "도보 약 5–10분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "vivienne",
+          "b": "horie",
+          "mode": "walk",
+          "note": "여유 있을 때만 호리에·오렌지스트리트 매장 구경 60분. 생략하면 호텔에서 휴식.",
+          "time": "도보 약 12–20분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "horie",
+          "b": "zundou",
+          "mode": "walk",
+          "note": "호리에에서 저녁을 먹는다면 츠케멘 스즈메로 대체 가능.",
+          "time": "도보 약 15–25분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "zundou",
+          "b": "osaka",
+          "mode": "walk",
+          "note": "호텔에서 맡긴 짐 회수 15분 추가.",
+          "time": "도보 약 8–15분",
+          "low": 0,
+          "high": 0,
+          "source": null,
+          "alt": null
+        },
+        {
+          "a": "osaka",
+          "b": "namba",
+          "mode": "rail",
+          "note": "미도스지선 신사이바시~난바 + 남해 역 도보 · 1인 ¥190",
+          "low": 380,
+          "high": 380,
+          "source": null,
+          "alt": null,
+          "time": "지하철＋남해 역 도보 약 20–35분"
+        },
+        {
+          "a": "namba",
+          "b": "kix",
+          "mode": "rail",
+          "note": "라피트 디지털 일반석 티켓 · 1인 ¥1,410",
+          "low": 2820,
+          "high": 2820,
+          "source": "digital",
+          "alt": {
+            "note": "남해 공항급행 · 특급권 없음 · 1인 ¥970",
+            "low": 1940,
+            "high": 1940,
+            "mode": "rail",
+            "time": "공항급행 승차 약 45–50분 / 대기·역 접근 포함 60–80분"
+          },
+          "time": "라피트 승차 약 35–40분 / 역 접근·대기 포함 50–70분"
+        }
+      ],
+      "tip": "체크아웃 후 호텔에 짐을 맡기고 쇼핑. 반클리프 예약을 잡는다면 11:30–12:30 후보로. 오렌지스트리트는 여유 있을 때만 60분: 상담이 길어지면 생략. 18:30까지 저녁을 끝내고 호텔 짐 회수, 19:30 전후 공항 이동 시작."
+    }
+  ],
+  "backups": [
+    {
+      "name": "마키노 산조",
+      "desc": "튀김덮밥·카츠쿠라 플랜 B",
+      "lat": 35.0087,
+      "lon": 135.7669,
+      "q": "天丼まきの 京都寺町三条店",
+      "food": "2인 예상 ¥2,600–4,000"
+    },
+    {
+      "name": "마루가메 시청 앞",
+      "desc": "우동·가벼운 대안",
+      "lat": 35.0103,
+      "lon": 135.7669,
+      "q": "丸亀製麺 京都市役所前",
+      "food": "2인 예상 ¥1,400–2,400"
+    },
+    {
+      "name": "기온 쿄멘",
+      "desc": "유부·닭고기·카레 우동",
+      "lat": 35.0034,
+      "lon": 135.7781,
+      "q": "祇園 京めん",
+      "food": "공식 두 그릇 ¥2,160–3,740 · 약 1.98만–3.33만 원"
+    },
+    {
+      "name": "기온 미야코",
+      "desc": "라멘·쿄멘 플랜 B",
+      "lat": 35.004,
+      "lon": 135.7769,
+      "q": "らぁ〜めん京 祇園本店",
+      "food": "2인 예상 ¥2,000–3,000"
+    },
+    {
+      "name": "하카타 나가하마 라멘 미요시",
+      "desc": "보내주신 목록의 첫날 저녁 플랜 B. 산조 호텔 근처에서 먹는 돼지뼈 육수·가는 면 라멘.",
+      "lat": 35.0086076,
+      "lon": 135.7705726,
+      "q": "博多長浜らーめんみよし",
+      "food": "2인 예상 ¥2,000–3,000 · 18,000–27,000원. 확정 메뉴 가격이 아닌 식사 예산."
+    },
+    {
+      "name": "마키노 난바",
+      "desc": "튀김 정식",
+      "lat": 34.6665,
+      "lon": 135.5024,
+      "q": "天ぷらまきの 難波千日前店",
+      "food": "2인 예상 ¥3,000–4,400"
+    },
+    {
+      "name": "스시로 도톤보리",
+      "desc": "회전초밥",
+      "lat": 34.6684287,
+      "lon": 135.50246,
+      "q": "スシロー 道頓堀店",
+      "food": "최저 접시 공식 ¥170– / 2인 예상 ¥3,000–5,000"
+    },
+    {
+      "name": "준도야 신사이바시",
+      "desc": "돈코츠 라멘·이른 저녁",
+      "lat": 34.6737,
+      "lon": 135.5013,
+      "q": "ラー麺ずんどう屋 心斎橋店",
+      "food": "2인 예상 ¥2,000–3,200 · 1.8만–2.88만 원"
+    },
+    {
+      "name": "치토세 벳칸",
+      "desc": "니쿠스이·본점 플랜 B",
+      "lat": 34.6646,
+      "lon": 135.5036,
+      "q": "千とせ べっかん",
+      "food": "공식 니쿠스이+작은 달걀밥 2인 ¥3,160"
+    }
+  ],
+  "sources": {
+    "haruka": "https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/",
+    "hankyuA": "https://ekitan.com/transit/fare/sf-5128/st-4849",
+    "jr": "https://transit.yahoo.co.jp/search/result/%E4%BA%AC%E9%83%BD-%E5%B5%AF%E5%B3%A8%E5%B5%90%E5%B1%B1",
+    "keihan": "https://www.keihan.co.jp/traffic/station/assets/pdf/fare/151.pdf",
+    "hankyuO": "https://transit.yahoo.co.jp/search/result?all=1&expkind=1&from=%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA&s=2&ticket=ic&to=%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%28%E9%98%AA%E6%80%A5%E7%B7%9A%29&ws=3",
+    "metro": "https://subway.osakametro.co.jp/guide/fare/",
+    "kyotometro": "https://www2.city.kyoto.lg.jp/kotsu/webguide/ja/fare/fare_tika.html",
+    "taxi": "https://kyoto-taxi.or.jp/search/",
+    "rapit": "https://www.nankai.co.jp/traffic/express/rapit.html",
+    "digital": "https://www.nankai.co.jp/sites/default/files/imce/pdf/library/pdf/FMO/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B%E6%96%87_FMO%E7%94%A8_%E7%A2%BA%E5%AE%9A_en.pdf",
+    "nankai": "https://www.nankai.co.jp/traffic/kaitei_2023.html",
+    "bus": "https://www.city.kyoto.lg.jp/kotsu/page/0000240682.html",
+    "bus5": "https://www2.city.kyoto.lg.jp/kotsu/busdia/hyperdia/11410001.htm",
+    "bus206": "https://www2.city.kyoto.lg.jp/kotsu/busdia/hyperdia/11330008.htm",
+    "keihannew": "https://www.keihan.co.jp/traffic/time-fare/assets/pdf/fare/010.pdf"
+  },
+  "visitInfo": {
+    "zen": {
+      "fee": "정원 ¥500 / 1인 4,500원 · 2인 ¥1,000 / 9,000원",
+      "hours": "정원 08:30–17:00 · 마지막 입장 16:50",
+      "note": "실내는 정원권에 +¥300/인: 08:30–16:45, 마지막 16:30. 법당 운룡도 별도 ¥500/인: 09:00–16:30, 마지막 16:20. 10/8은 운룡도 공개 기간에 해당. 늦게 도착하면 정원부터 관람.",
+      "url": "https://www.tenryuji.com/visit/",
+      "label": "공식 안내",
+      "adult": 500,
+      "checked": "2026-10-07"
+    },
+    "ginkaku": {
+      "fee": "¥1,000 / 1인 9,000원 · 2인 ¥2,000 / 18,000원",
+      "hours": "10월 08:30–17:00 · 입장 마감 17:00",
+      "note": "2026년 4월 1일 인상된 성인 요금. 17:20까지 퇴장. 은각 내부는 일반 공개하지 않음. 09:00 방문 계획은 운영시간 안에 해당.",
+      "url": "https://www.shokoku-ji.jp/ginkakuji/",
+      "label": "공식 안내",
+      "adult": 1000,
+      "checked": "2026-10-07"
+    },
+    "kiyo": {
+      "fee": "¥500 / 1인 4,500원 · 2인 ¥1,000 / 9,000원",
+      "hours": "10/9 06:00–18:00",
+      "note": "이번 방문일은 야간 특별관람 기간이 아님. 입장료는 본당 관람 기준. 산넨자카·니넨자카 산책은 무료.",
+      "url": "https://www.kiyomizudera.or.jp/access.php",
+      "label": "공식 안내",
+      "adult": 500,
+      "checked": "2026-10-07",
+      "feeSource": "https://ja.kyoto.travel/event/single.php?event_id=3730"
+    },
+    "tofuku": {
+      "fee": "통천교·개산당 ¥600 / 정원 ¥500 / 공통권 ¥1,000 · 모두 1인",
+      "hours": "10/10 09:00–16:00 · 접수 마감 16:00",
+      "note": "두 곳을 볼 경우 공통권: 2인 ¥2,000 / 18,000원. 통천교·개산당만 보면 2인 ¥1,200 / 10,800원. 11월 성수기 요금은 이번 날짜에 적용되지 않음.",
+      "url": "https://tofukuji.jp/guide/",
+      "label": "공식 안내",
+      "adult": 1000,
+      "checked": "2026-10-07"
+    },
+    "tower": {
+      "fee": "¥1,000 / 1인 9,000원 · 2인 ¥2,000 / 18,000원",
+      "hours": "10:00–21:00 · 마지막 입장 20:30",
+      "note": "선택 야경 일정. 저녁 식사가 늦어지면 20:30 입장 마감에 맞출 수 있는지 확인.",
+      "url": "https://www.kyoto-tower.jp/fee/",
+      "label": "공식 안내",
+      "adult": 1000,
+      "checked": "2026-10-07"
+    },
+    "boat": {
+      "fee": "¥2,000 / 1인 18,000원 · 2인 ¥4,000 / 36,000원",
+      "hours": "11:00–21:00 출항 · 매시 00분/30분 · 약 20분",
+      "note": "10/10 20:30편 목표. 일부 편 온라인 사전 예약 가능. 날씨·수위에 따라 운휴할 수 있음. 놓치면 다음 날 도톤보리에서 탑승.",
+      "url": "https://www.ipponmatsu.co.jp/cruise/tombori.html",
+      "label": "공식 안내",
+      "adult": 2000,
+      "checked": "2026-10-07"
+    },
+    "inari": {
+      "fee": "무료 · 본전·센본도리이 산책",
+      "hours": "폐문 없음 · 낮/밤 참배 가능",
+      "note": "굿즈·부적 수여소는 08:00–18:00 안내. 낮에 짧은 코스로 관람하는 현재 일정 유지.",
+      "url": "https://ja.kyoto.travel/tourism/single01.php?category_id=7&tourism_id=448",
+      "label": "교토시 관광 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "yasaka": {
+      "fee": "무료 · 경내 참배",
+      "hours": "경내 24시간 · 사무소 09:00–17:00",
+      "note": "기도 접수 09:00–16:00. 경내 산책만 하는 일정은 별도 입장권이 필요 없음.",
+      "url": "https://www.yasaka-jinja.or.jp/sanpai/?display=sp",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "bridge": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "bamboo": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "path": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름. 풍경은 밝을 때 관람 권장.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "sannen": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "ninen": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "gion": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "ponto": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "doton": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "ame": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "horie": {
+      "fee": "무료 · 거리/공공 산책로",
+      "hours": "산책 구간에 정해진 영업시간 없음",
+      "note": "상점·카페는 각자 영업시간이 다름.",
+      "url": "",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "mccoy": {
+      "fee": "입장료 없음 · 구매비 별도",
+      "hours": "12:00–20:00 · 수·목요일 휴무",
+      "note": "10/9 금요일 16시 이후 방문 계획은 정기 영업일에 해당.",
+      "url": "https://therealmccoys.com/pages/kyoto",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "kapital": {
+      "fee": "입장료 없음 · 구매비 별도",
+      "hours": "11:00–20:00",
+      "note": "KAPITAL K.K-POPPO 교토점 기준. 공식 페이지에 정기 휴무 명시 없음.",
+      "url": "https://www.kapital.jp/shop/detail/9.html",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "hinoya": {
+      "fee": "입장료 없음 · 구매비 별도",
+      "hours": "11:00–21:00",
+      "note": "난바파크스 4층. 10/10 17시 방문 계획은 운영시간 안에 해당. 시설 휴관은 난바파크스 공지 확인.",
+      "url": "https://hinoya-ameyoko.com/hinoya/tag/nambaparks/",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "katsu": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "11:00–21:00 · 마지막 주문 20:30 · 정기 휴무 없음",
+      "note": "",
+      "url": "https://www.katsukura.jp/shops/sanjo/",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "kyomen": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "11:30–21:00 · 마지막 주문 20:30 · 화요일 휴무",
+      "note": "",
+      "url": "https://gion-kyomen.net/",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "ino": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "11:00–14:30 / 17:30–21:00",
+      "note": "본점 기준. 번호표가 필요한 운영 방식: 저녁 방문 가능 시간을 확인하고, 표가 없으면 플랜 B로 전환.",
+      "url": "https://menyainoichi.net/about",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "ajino": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "화–일 11:00–22:00 · 월요일 휴무",
+      "note": "10/10 토요일 저녁 방문 가능. 임시 휴무는 공식 공지 확인.",
+      "url": "https://ajinoya-okonomiyaki.com/top/company/main-shop/",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "sushi": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "10/11 일요일 10:30–23:00 · 마지막 주문 22:30",
+      "note": "평일 11:00–23:00. 도톤보리점 한 접시 ¥170부터.",
+      "url": "https://www.akindo-sushiro.co.jp/shop/detail.php?id=2769",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "chitose": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "10:00–14:30 · 화요일 휴무 · 재료 소진 시 종료",
+      "note": "10/12 월요일 영업일. 11시 전후 도착 권장: 오후로 미루면 품절 가능.",
+      "url": "https://www.chitose-nikusui.com/chitose/access.html",
+      "label": "공식 안내",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "zundou": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "24시간 영업 안내",
+      "note": "신사이바시점 기준. 월요일 이른 저녁 일정에 영업시간 제약 없음.",
+      "url": "https://shop.zundouya.com/stores/51",
+      "label": "공식 매장 안내의 인근 신사이바시점 정보",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "kitada": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "07:00–24:00 · 마지막 주문 23:30 · 부정기 휴무",
+      "note": "공식 계정에서 최신 영업시간을 확인하지 못해 식べログ 매장 정보를 참고.",
+      "url": "https://tabelog.com/kyoto/A2601/A260101/26036754/dtlmenu/",
+      "label": "식べログ · 공식 확인 미완료",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "kita": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "11:00–15:00 · 월·목요일 휴무 · 재료 소진 시 종료",
+      "note": "10/11 일요일 방문 가능. 11시 전후 도착 권장. 공식 계정의 최신 공지는 별도 확인 필요.",
+      "url": "https://tabelog.com/osaka/A2701/A270202/27103359/dtlmap",
+      "label": "식べログ · 공식 확인 미완료",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "mugi": {
+      "fee": "입장료 없음 · 식사비는 아래 메뉴 예산 참고",
+      "hours": "일요일 11:00–16:00 · 화요일 휴무",
+      "note": "우메다 기본 일정인 10/11 일요일 기준. 평일·토요일 시간표와 다름.",
+      "url": "https://tabelog.com/osaka/A2701/A270101/27104891/dtlmenu/photo/",
+      "label": "식べログ · 공식 확인 미완료",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "grenier": {
+      "fee": "입장료 없음 · 디저트 구매비 별도",
+      "hours": "우메다점 최신 영업시간 확정 못함",
+      "note": "소개 자료에 19시/20시 마감이 혼재하여 단정하지 않음. 현재 점심 이후 방문 계획으로 두고 출발 전 공식 계정 확인.",
+      "url": "https://www.instagram.com/patisserie_grenier/",
+      "label": "공식 계정 · 영업시간 확인 필요",
+      "adult": null,
+      "checked": "2026-10-07"
+    },
+    "play": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "11:00–21:00",
+      "note": "난바파크스 2층. PLAY 위주라는 요청에 맞춰 본라인 매장 방문은 추가하지 않음.",
+      "url": "https://nambaparks.com/shopresearch/93",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "jelado": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "일요일·공휴일 12:00–19:00 · 목요일 휴무",
+      "note": "2026년 8월부터 변경된 영업시간. 평일은 13:00부터. 10/11 일요일 15시 방문 계획.",
+      "url": "https://jelado.pro/pages/store-locater",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "kaposaka": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "10/11 일요일 10:00–20:00",
+      "note": "한큐 맨즈 오사카 5층. 평일 11:00–20:00.",
+      "url": "https://www.kapital.jp/shop/detail/10.html",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "vancleef": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "11:30–19:30",
+      "note": "착용 상담에 45–60분 확보. 공식 홈페이지에서 방문 예약 권장; 예약 완료 상태는 아님.",
+      "url": "https://www.vancleefarpels.com/jp/ja/boutique-detailed-page/%E5%BF%83%E6%96%8E%E6%A9%8B%E5%BA%97-%E3%83%95-%E3%83%A9%E3%82%A4%E3%82%BF-%E3%83%AB%E3%82%B5%E3%83%AD%E3%83%B3%E3%81%82%E3%82%8A-.html",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "tiffany": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "10:00–20:00",
+      "note": "PARCO 1층. 45–60분 둘러볼 시간 확보.",
+      "url": "https://shinsaibashi.parco.jp/shop/detail/?cd=026292",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "vivienne": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "11:00–20:00",
+      "note": "南船場4-12-12 플래그십. 45분 방문 계획.",
+      "url": "https://www.viviennewestwood.com/ja-jp/storedetails/?storeID=Osaka-Flagship-Shinsaibashi",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "suzume": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "토·일·공휴일 11:30–22:00 · 무휴",
+      "note": "평일은 11:30–16:30 / 18:00–22:00. 10/12는 스포츠의 날 공휴일이라 공식 주말·공휴일 운영시간 적용.",
+      "url": "https://suzume-group.co.jp/suzume/",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    },
+    "watanabe": {
+      "fee": "입장료 없음 · 구매/식사비 별도",
+      "hours": "우메다 본점: 일·공휴일 11:30–16:00 마지막 주문 · 토요일 휴무",
+      "note": "신사이바시점은 일요일 휴무이므로 10/11에는 우메다 본점으로 안내.",
+      "url": "https://watanabecurry.com/",
+      "label": "공식 안내",
+      "adult": 0,
+      "checked": "2026-10-07"
+    }
+  },
+  "stories": {
+    "bridge": {
+      "title": "달이 건너가는 다리",
+      "text": "도게츠교(渡月橋)는 ‘달이 건너가는 다리’라는 뜻입니다. 가메야마 상황이 다리 위로 움직이는 달을 보고 이름을 붙였다는 이야기가 전해집니다.",
+      "look": "다리만 찍기보다 강과 뒤쪽 아라시야마 산을 함께 바라보기.",
+      "source": "https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2682"
+    },
+    "zen": {
+      "title": "정원을 짓기 위해 중국으로 보낸 배",
+      "text": "1339년 아시카가 다카우지가 고다이고 천황을 추모하며 세운 선종 사찰입니다. 건립 자금이 부족하자 무소 소세키와 아시카가 다다요시가 중국 무역선의 수익으로 공사를 이어갔습니다.",
+      "look": "소겐치 연못을 볼 때 뒤쪽 산까지 정원의 일부처럼 들어오는 풍경을 보기.",
+      "source": "https://www.tenryuji.com/en/about/"
+    },
+    "bamboo": {
+      "title": "겐지 이야기의 무대 곁을 걷기",
+      "text": "이 산책로는 일본 고전 『겐지 이야기』와 관련된 노노미야 신사 주변에서 이어집니다. 대나무가 흔들리는 소리도 이 길을 즐기는 요소입니다.",
+      "look": "잠깐 멈춰 바람에 잎이 부딪히는 소리 듣기. 노노미야 신사는 추가 필수 방문이 아닙니다.",
+      "source": "https://shugakuryoko.kyoto.travel/spot/533/"
+    },
+    "tower": {
+      "title": "촛불처럼 보이지만 모티프는 등대",
+      "text": "1964년에 문을 연 교토타워의 흰 실루엣은 등대를 본뜬 것입니다. 바다가 없는 교토의 시가지를 비추는 등대라는 발상으로 설계됐습니다.",
+      "look": "전망대에서 교토의 격자형 거리와 낮게 이어지는 지붕을 찾아보기.",
+      "source": "https://www.kyoto-tower.jp/about/"
+    },
+    "ginkaku": {
+      "title": "쇼군의 별장에서 시작한 은각사",
+      "text": "은각사로 알려진 지쇼지는 무로마치 막부 쇼군 아시카가 요시마사의 산장 히가시야마도노에서 출발했습니다. 그의 사후 선종 사찰로 바뀌어 히가시야마 문화의 대표 장소가 됐습니다.",
+      "look": "관음전 건물뿐 아니라 흰 모래 정원과 이끼·연못을 함께 보기.",
+      "source": "https://www.shokoku-ji.jp/en/ginkakuji/about/"
+    },
+    "path": {
+      "title": "산책이 철학이 된 길",
+      "text": "교토대 철학자 니시다 기타로 등이 이 길을 걸으며 사색했다고 해서 ‘철학의 길’로 불립니다. 옆의 물길은 자연 개울이 아니라 비와호 소수의 지선입니다.",
+      "look": "물길을 따라 걸으며 관광지 사이의 이동 자체를 산책으로 즐기기.",
+      "source": "https://biwakososui.city.kyoto.lg.jp/place/detail/38"
+    },
+    "kiyo": {
+      "title": "맑은 물이 절 이름이 되다",
+      "text": "청수사는 778년에 창건됐으며 이름은 ‘맑은 물’을 뜻합니다. 오토와 폭포의 물에서 비롯된 이름으로, 절의 이야기를 물과 관음 신앙이 연결합니다.",
+      "look": "본당의 높은 목조 무대를 측면에서도 바라보고, 오토와 폭포 쪽 풍경 확인하기.",
+      "source": "https://www.kiyomizudera.or.jp/en/learn/"
+    },
+    "sannen": {
+      "title": "넘어지면 수명이 줄어든다는 옛이야기",
+      "text": "산넨자카에서 넘어지면 수명이 줄어든다는 이야기는 1679년 간행물에도 등장합니다. 빠져나간 혼을 표주박이 되돌려 준다는 민간 믿음도 있었는데, 사실이 아닌 옛 전승입니다.",
+      "look": "계단과 오래된 상점들이 굽이치는 풍경 보기. 산네이자카라는 이름은 순산 기원과 연결하는 설도 있습니다.",
+      "source": "https://ja.kyoto.travel/komafuda/show.php?id=2239&lang=kr"
+    },
+    "ninen": {
+      "title": "돌계단과 집들이 함께 남은 거리",
+      "text": "니넨자카·산넨자카 주변은 돌계단·돌길과 전통 가옥이 함께 보존된 지역입니다. 니넨자카라는 이름은 807년(다이도 2년)에 길이 생겼다는 설 등 여러 설명이 전해집니다.",
+      "look": "현대 상점 간판 아래에도 이어지는 가옥의 처마와 격자창 보기.",
+      "source": "https://shugakuryoko.kyoto.travel/spot/536/"
+    },
+    "yasaka": {
+      "title": "기온마쓰리는 전염병을 물리치려는 기원에서",
+      "text": "기온마쓰리는 869년 전염병이 퍼졌을 때 재앙을 없애 달라고 기원한 의식에서 비롯됐습니다. 당시 지방의 수에 맞춘 66개의 창을 세웠다는 이야기가 신사 역사에 기록돼 있습니다.",
+      "look": "기온 거리와 이 신사가 이어지는 관계를 생각하며 경내 둘러보기. 이번 10월 방문에는 7월 축제가 열리지 않습니다.",
+      "source": "https://www.yasaka-jinja.or.jp/about/history/"
+    },
+    "gion": {
+      "title": "야사카신사 앞에서 자란 거리",
+      "text": "기온은 야사카신사 앞의 번화가이면서 게이코·마이코가 활동하는 교토의 전통 화가이입니다. 여기서 오차야는 보통의 찻집이라기보다 전통 접객·예능 문화와 연결된 공간입니다.",
+      "look": "하나미코지에서 나무 격자와 낮은 처마가 이어지는 거리 풍경 보기.",
+      "source": "https://www.kyoto.travel/tw/areas/gion-kiyomizu/"
+    },
+    "ponto": {
+      "title": "원래는 강의 모래톱이었던 골목",
+      "text": "폰토초는 1670년 가모가와와 다카세가와의 호안 공사로 강변을 메운 뒤 거리가 형성된 데서 시작했습니다. 지금의 좁고 긴 골목에도 강 옆에서 자란 동네의 형태가 남아 있습니다.",
+      "look": "가모가와 쪽으로 열리는 좁은 사이길과 골목의 폭을 비교해 보기.",
+      "source": "https://www.kamogawa-odori.com/pontocho/"
+    },
+    "inari": {
+      "title": "붉은 도리이는 누군가의 봉헌",
+      "text": "후시미이나리는 711년부터 이어진 이나리 신앙의 중심입니다. 늘어선 도리이는 신사에서 일괄 장식한 문이 아니라 개인·기업이 봉헌한 것으로, 오늘도 봉헌을 받습니다.",
+      "look": "도리이를 지나 돌아보면 봉헌자의 이름과 날짜가 적힌 면을 볼 수 있습니다.",
+      "source": "https://inari.jp/en/",
+      "source2": "https://inari.jp/gotinza1300/index.html"
+    },
+    "tofuku": {
+      "title": "도다이지의 ‘동’, 고후쿠지의 ‘복’",
+      "text": "1236년부터 19년에 걸쳐 조성된 도후쿠지는 나라의 도다이지와 고후쿠지에서 각각 ‘동(東)’과 ‘복(福)’을 따 이름을 붙였습니다. 두 사찰에 견줄 큰 사찰을 지으려는 뜻이 담겼습니다.",
+      "look": "통천교에서 골짜기를 내려다보고, 정원을 선택했다면 다리 풍경과 다른 구성을 비교하기.",
+      "source": "https://tofukuji.jp/guide/tour/tc/"
+    },
+    "doton": {
+      "title": "네온보다 먼저 있었던 운하",
+      "text": "도톤보리강은 1615년에 완성된 운하입니다. 오늘의 간판·먹거리 거리 뒤에는 물길을 따라 사람과 상업이 모인 역사가 있습니다.",
+      "look": "다리 위와 배 위에서 간판이 보이는 높이가 어떻게 달라지는지 비교하기.",
+      "source": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000010/10856/01J.pdf"
+    },
+    "boat": {
+      "title": "배에서 보는 도톤보리의 다른 얼굴",
+      "text": "도톤보리강은 1615년에 완성된 운하입니다. 오늘의 간판·먹거리 거리 뒤에는 물길을 따라 사람과 상업이 모인 역사가 있습니다.",
+      "look": "다리 위와 배 위에서 간판이 보이는 높이가 어떻게 달라지는지 비교하기.",
+      "source": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000010/10856/01J.pdf"
+    },
+    "ame": {
+      "title": "창고에서 팔던 미국 빈티지가 동네 이름으로",
+      "text": "1970년대 창고를 고친 가게들이 미국에서 가져온 중고 의류·청바지·레코드를 팔면서 ‘아메리카무라’가 알려졌습니다. 지금도 빈티지와 젊은 패션 문화가 이어지는 지역입니다.",
+      "look": "카페만 보지 말고 작은 빈티지 가게의 쇼윈도도 구경하기.",
+      "source": "https://osaka-info.jp/spot/america-mura-american-village/"
+    },
+    "horie": {
+      "title": "패션 거리의 시작은 가구점 거리",
+      "text": "오렌지스트리트의 원래 이름은 다치바나도리로, 막부 말기부터 가구·생활 도구를 파는 거리였습니다. 이후 패션·카페가 들어왔지만 오래된 가구점도 남아 있습니다.",
+      "look": "옷가게 사이의 가구·인테리어 가게까지 보면 거리의 변화를 느낄 수 있습니다.",
+      "source": "https://osaka-info.jp/experience/ja/osaka/spot/243"
+    }
+  },
+  "passAdvice": {
+    "d1": {
+      "verdict": "1일권 사지 않기",
+      "amount": "패스에 포함되는 교토 지하철은 1인 ¥520 / 4,680원",
+      "detail": "HARUKA·한큐·JR은 교토 지하철·버스 1일권에 포함되지 않습니다. 지하철 2회만으로 ¥1,100짜리 패스를 살 이유가 없음.",
+      "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html"
+    },
+    "d2": {
+      "verdict": "현재 계획은 IC카드로",
+      "amount": "시버스 3회: 1인 ¥690 / 6,210원 · 패스 ¥1,100 / 9,900원",
+      "detail": "은각사행 1회 + 청수사행 환승 2회. 버스만 5회 타면 ¥1,150이 되어 패스가 ¥50 저렴합니다. 걷는 구간을 추가 승차로 바꿀 때만 재계산.",
+      "source": "https://www.city.kyoto.lg.jp/kotsu/page/0000028378.html"
+    },
+    "d3": {
+      "verdict": "교토·오사카 1일권 모두 불필요",
+      "amount": "게이한 중심 + Osaka Metro 1회 ¥190 / 1,710원",
+      "detail": "오사카 엔조이 에코카드는 게이한·JR·남해에 적용되지 않습니다. 이날 오사카 지하철 1회만 예정이라 IC카드가 유리.",
+      "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+    },
+    "d4": {
+      "verdict": "추가 지하철을 탈 예정이면 당일 구매",
+      "amount": "예정 2회: 1인 ¥430 / 3,870원 · 일요일 패스 ¥620 / 5,580원",
+      "detail": "제라도 → 숙소도 지하철로 바꾸면 ¥620으로 패스와 동일. 그 뒤 호텔↔난바 등 한 번 더 타면 패스가 이득입니다. 도보 복귀를 유지하면 IC카드가 ¥190 저렴.",
+      "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+    },
+    "d4b": {
+      "verdict": "우동 대안을 고르면 첫 승차 전 구매해도 좋음",
+      "amount": "예정 3회: 1인 ¥620 · 일요일 패스 ¥620 / 5,580원",
+      "detail": "예정 운임과 패스 가격이 같습니다. 추가 승차에 부담이 없으므로 난바 → 히고바시 첫 지하철을 타기 전 패스 구매 추천. 2인 ¥1,240 / 11,160원.",
+      "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+    },
+    "d5": {
+      "verdict": "현재 계획은 IC카드로",
+      "amount": "예정 2회: 1인 ¥380 / 3,420원 · 공휴일 패스 ¥620 / 5,580원",
+      "detail": "10/12 월요일은 일본 스포츠의 날 공휴일이라 ¥620 적용. 짧은 구간 4회면 ¥760으로 패스가 유리해집니다. 공항행 남해·라피트는 포함되지 않음.",
+      "source": "https://subway-tr.osakametro.co.jp/ko/guide/page/enjoy-eco.php"
+    }
+  },
+  "timetables": {
+    "d1": [
+      [
+        "도착 후",
+        "HARUKA로 교토 → 호텔에 먼저 짐 보관"
+      ],
+      [
+        "점심 이후",
+        "카츠쿠라 → 아라시야마: 도게츠교·덴류지·대나무숲"
+      ],
+      [
+        "저녁",
+        "카이다시멘 키타다 저녁 → 교토타워 야경 선택. 긴 대기는 호텔 근처 미요시로 전환"
+      ]
+    ],
+    "d2": [
+      [
+        "08:00–08:55",
+        "호텔 출발 → 5번 버스 → 은각사"
+      ],
+      [
+        "09:00–10:00",
+        "은각사 관람"
+      ],
+      [
+        "10:00–11:00",
+        "철학의 길 남쪽으로 산책"
+      ],
+      [
+        "11:00–12:10",
+        "정류장 이동 → 5번·206번 환승 → 청수사"
+      ],
+      [
+        "12:10–13:45",
+        "청수사·산넨자카·니넨자카"
+      ],
+      [
+        "13:45–14:45",
+        "기온 쿄멘 점심: 긴 대기는 주변 플랜 B"
+      ],
+      [
+        "14:45–16:00",
+        "야사카신사·기온"
+      ],
+      [
+        "16:00–17:30",
+        "리얼맥코이 → 캐피탈 → 호텔"
+      ],
+      [
+        "저녁 선택",
+        "이노이치·폰토초"
+      ]
+    ],
+    "d3": [
+      [
+        "08:30–09:00",
+        "체크아웃 → 호텔에 짐 맡기기"
+      ],
+      [
+        "09:00–09:45",
+        "게이한 산조 → 후시미이나리"
+      ],
+      [
+        "09:45–11:15",
+        "이나리: 본전·도리이 길 짧은 코스"
+      ],
+      [
+        "11:15–12:30",
+        "도후쿠지 이동·점심"
+      ],
+      [
+        "12:30–14:00",
+        "도후쿠지 관람"
+      ],
+      [
+        "14:00–14:50",
+        "산조 호텔 복귀·짐 회수"
+      ],
+      [
+        "14:50–16:30",
+        "게이한 요도야바시 → 미도스지선 → 오사카 호텔"
+      ],
+      [
+        "17:00–18:15",
+        "HINOYA 4층: 버즈릭슨 피팅·구매"
+      ],
+      [
+        "18:15–18:45",
+        "같은 난바파크스 2층: 꼼데 PLAY"
+      ],
+      [
+        "19:00–20:00",
+        "아지노야 저녁 · 긴 대기는 마키노/스시로"
+      ],
+      [
+        "20:30 전후",
+        "도톤보리 크루즈 · 늦어지면 다음 날"
+      ]
+    ],
+    "d4": [
+      [
+        "08:30–09:00",
+        "숙소/근처 편의점에서 가벼운 아침"
+      ],
+      [
+        "10:00–10:40",
+        "미도스지선 → 나카쓰 · 점심 대기 여유"
+      ],
+      [
+        "11:00–12:15",
+        "무기토 멘스케 점심 · 대기 30분 넘으면 와타나베 카레"
+      ],
+      [
+        "12:30–13:45",
+        "한큐 맨즈 5층: 캐피탈"
+      ],
+      [
+        "13:45–14:15",
+        "그루니에 디저트 선택 · 긴 대기는 생략"
+      ],
+      [
+        "14:15–15:00",
+        "니시우메다 → 히고바시 → 제라도"
+      ],
+      [
+        "15:00–16:00",
+        "JELADO WEST 피팅·쇼핑"
+      ],
+      [
+        "16:00–17:15",
+        "타카무라 커피 선택 또는 호텔로 복귀"
+      ],
+      [
+        "17:15–18:30",
+        "호텔 휴식"
+      ],
+      [
+        "18:30–19:30",
+        "스시로 도톤보리 저녁"
+      ],
+      [
+        "20:00 전후",
+        "전날 못 탄 경우 크루즈 · 탔다면 산책"
+      ]
+    ],
+    "d4b": [
+      [
+        "08:30–09:00",
+        "숙소/근처 편의점에서 가벼운 아침"
+      ],
+      [
+        "10:15–12:15",
+        "난바 이동 → 11시 키타타케 우동 점심"
+      ],
+      [
+        "12:15–13:00",
+        "요쓰바시선 난바 → 히고바시"
+      ],
+      [
+        "13:00–14:00",
+        "JELADO WEST"
+      ],
+      [
+        "14:00–14:45",
+        "히고바시 → 니시우메다 → 한큐 맨즈"
+      ],
+      [
+        "14:45–16:00",
+        "캐피탈 → 그루니에 선택"
+      ],
+      [
+        "16:00–18:30",
+        "난바 복귀·자유시간"
+      ],
+      [
+        "18:30–19:30",
+        "스시로 저녁 · 기본안 대신 선택하는 일정"
+      ]
+    ],
+    "d5": [
+      [
+        "08:30–09:00",
+        "가벼운 아침 · 호텔 체크아웃 후 짐 맡기기"
+      ],
+      [
+        "09:30–11:00",
+        "난바 이동 → 치토세 이른 점심"
+      ],
+      [
+        "11:00–11:30",
+        "미도스지선 난바 → 신사이바시"
+      ],
+      [
+        "11:30–12:30",
+        "반클리프 앤 아펠 착용·상담"
+      ],
+      [
+        "12:30–13:30",
+        "티파니 PARCO 1층"
+      ],
+      [
+        "13:30–14:15",
+        "비비안 신사이바시 플래그십"
+      ],
+      [
+        "14:15–15:00",
+        "카페 휴식 · 배고프면 추가 식사"
+      ],
+      [
+        "15:00–16:00",
+        "여유 있을 때 오렌지스트리트 매장 선택 방문"
+      ],
+      [
+        "16:00–17:15",
+        "호텔 휴식·짐 정리"
+      ],
+      [
+        "17:30–18:30",
+        "준도야 저녁 또는 츠케멘 스즈메"
+      ],
+      [
+        "18:30–19:30",
+        "호텔 짐 회수 → 남해 난바역"
+      ],
+      [
+        "19:30–21:00",
+        "라피트/공항급행 → KIX · 00:15 비행기 준비"
+      ]
+    ]
+  },
+  "cafeOptions": {
+    "d1": [
+      {
+        "name": "쿠모노차 아라시야마점",
+        "menu": "구름 모양 말차 무스·말차 라테",
+        "why": "사진으로 많이 소개되는 구름 디저트를 고른다면. 대나무숲 관람 후 사가아라시야마역으로 가는 길에 쉬어가는 후보.",
+        "slot": "대나무숲 이후 · 30–40분 선택 휴식. 첫날 도착이 늦으면 생략.",
+        "cost": "2인 무스+음료 예상 ¥2,600–3,200 · 23,400–28,800원. 매장·시즌별 메뉴 가격은 현장 확인.",
+        "q": "雲ノ茶 嵐山店",
+        "links": [
+          [
+            "공식 메뉴·매장",
+            "https://www.kumonocha.com/en/副本-雲ノ茶-四条河原町店"
+          ],
+          [
+            "공식 인스타",
+            "https://www.instagram.com/kumonocha_kyoto/"
+          ]
+        ],
+        "origin": "추가 제안 · 저장 목록에 있는 곳으로 확인되지는 않음"
+      }
+    ],
+    "d2": [
+      {
+        "name": "쿠모노차 청수 산넨자카점",
+        "menu": "구름 모양 말차 무스·말차 라테",
+        "why": "청수사·산넨자카 관광 중에 들르기 쉬운 같은 브랜드 지점. 아라시야마점과 둘 중 한 곳만 선택.",
+        "slot": "산넨자카 산책 중 · 30분 선택 휴식. 쇼핑 시간을 지키려면 긴 대기는 생략.",
+        "cost": "2인 디저트+음료 예상 ¥2,600–3,200 · 23,400–28,800원. 지점별 가격 차이 가능.",
+        "q": "雲ノ茶 清水三年坂店",
+        "links": [
+          [
+            "공식 매장 정보",
+            "https://www.kumonocha.com/en/shop-info-1"
+          ],
+          [
+            "공식 인스타",
+            "https://www.instagram.com/kumonocha_kyoto/"
+          ]
+        ],
+        "origin": "추가 제안 · 저장 목록에 있는 곳으로 확인되지는 않음"
+      }
+    ],
+    "d4": [
+      {
+        "name": "그루니에 · 우메다점",
+        "menu": "크림브륄레 밀푀유: 바삭한 파이 속 커스터드·구운 설탕",
+        "why": "한국어 숏츠에서도 소개된 밀푀유. 우메다 캐피탈 쇼핑 후 가까운 디저트 후보.",
+        "slot": "캐피탈 쇼핑 후 · 20–30분. 포장 위주. 타카무라 커피와 둘 중 한 곳을 쉬어가는 후보로 선택.",
+        "cost": "2인 밀푀유·음료 예상 ¥2,400–3,600 · 21,600–32,400원. 크기·주문에 따라 한 개를 나눠 먹어도 됩니다.",
+        "q": "grenier 梅田",
+        "links": [
+          [
+            "숏츠 · 공간작가 · 1,942회",
+            "https://www.youtube.com/shorts/9s67FJ4vAgo"
+          ],
+          [
+            "숏츠 · 니아 · 3,074회",
+            "https://www.youtube.com/shorts/Ck3mhFYRdyI"
+          ],
+          [
+            "2026년 9월 블로그 후기",
+            "https://soddongsim.tistory.com/19"
+          ]
+        ],
+        "origin": "현재 여행계획의 디저트와 일치"
+      },
+      {
+        "name": "TAKAMURA · 타카무라",
+        "menu": "스페셜티 드립커피·커피 원두",
+        "why": "제라도 WEST에서 서쪽 에도보리 방향으로 쉬어가기. 창고 같은 넓은 커피·와인 공간.",
+        "slot": "10/11 제라도 후 30–45분 선택 · 그루니에와 둘 중 하나 권장",
+        "cost": "2인 커피 예산 ¥1,200–2,000 / 10,800–18,000원 · 원두에 따라 변동",
+        "q": "TAKAMURA WINE COFFEE ROASTERS 江戸堀2-2-18",
+        "links": [
+          [
+            "공식 매장·메뉴",
+            "https://takamura-coffee.com/pages/visit"
+          ]
+        ],
+        "origin": "동선 근처 추가 제안",
+        "hours": "11:00–19:30 · 수요일 휴무"
+      }
+    ],
+    "d4b": [
+      {
+        "name": "그루니에 · 우메다점",
+        "menu": "크림브륄레 밀푀유: 바삭한 파이 속 커스터드·구운 설탕",
+        "why": "한국어 숏츠에서도 소개된 밀푀유. 우메다 캐피탈 쇼핑 후 가까운 디저트 후보.",
+        "slot": "캐피탈 쇼핑 후 · 20–30분. 포장 위주. 타카무라 커피와 둘 중 한 곳을 쉬어가는 후보로 선택.",
+        "cost": "2인 밀푀유·음료 예상 ¥2,400–3,600 · 21,600–32,400원. 크기·주문에 따라 한 개를 나눠 먹어도 됩니다.",
+        "q": "grenier 梅田",
+        "links": [
+          [
+            "숏츠 · 공간작가 · 1,942회",
+            "https://www.youtube.com/shorts/9s67FJ4vAgo"
+          ],
+          [
+            "숏츠 · 니아 · 3,074회",
+            "https://www.youtube.com/shorts/Ck3mhFYRdyI"
+          ],
+          [
+            "2026년 9월 블로그 후기",
+            "https://soddongsim.tistory.com/19"
+          ]
+        ],
+        "origin": "현재 여행계획의 디저트와 일치"
+      }
+    ],
+    "d3": [
+      {
+        "name": "P.G.donut · 난바파크스",
+        "menu": "크림 도넛·베이커리 도넛",
+        "why": "PLAY와 같은 2층. 쇼핑 도중 짧게 먹거나 포장할 수 있어 추가 이동이 거의 없음.",
+        "slot": "10/10 쇼핑 중 15분 선택 · 저녁 전에 많이 먹지 않기",
+        "cost": "2인 도넛 예산 ¥800–1,400 / 7,200–12,600원 · 음료 별도 추정",
+        "q": "P.G.donut なんばパークス",
+        "links": [
+          [
+            "공식 매장·메뉴",
+            "https://nambaparks.com/shopresearch/635"
+          ]
+        ],
+        "origin": "동선 근처 추가 제안",
+        "hours": "11:00–21:00 · 난바파크스 2층"
+      }
+    ],
+    "d5": [
+      {
+        "name": "LiLo Coffee Roasters · 리로",
+        "menu": "핸드드립·에스프레소 기반 커피",
+        "why": "신사이바시 쇼핑과 오렌지스트리트 사이에 잠깐 쉬기 좋은 작은 커피 스탠드. 앉아서 오래 쉬려면 다른 카페 선택.",
+        "slot": "10/12 주얼리 쇼핑 후 또는 호리에 가는 길 · 20–30분 선택",
+        "cost": "2인 커피 예산 ¥1,200–2,000 / 10,800–18,000원 · 주문·원두별 변동",
+        "q": "LiLo Coffee Roasters 西心斎橋",
+        "links": [
+          [
+            "공식 매장·메뉴",
+            "https://coffee.liloinveve.com/pages/lilo-coffee-roasters-1"
+          ]
+        ],
+        "origin": "동선 근처 추가 제안",
+        "hours": "공식 매장 위치 확인 · 최신 영업시간은 페이지에서 확인되지 않아 방문 전 확인"
+      },
+      {
+        "name": "GUFO · 구포",
+        "menu": "밀크 소프트아이스크림·초콜릿/라즈베리 토핑",
+        "why": "호리에 산책과 잘 맞는 작은 아이스크림 가게. 우메다로 이동할 필요 없이 사진 찍고 가볍게 먹기 좋은 후보.",
+        "slot": "호리에 산책 중 · 15–25분. 10월 안내 영업은 12–18시, 수요일 휴무.",
+        "cost": "2026.08 소개 가격: 밀크 ¥420 → 2개 ¥840=7,560원. 초콜릿·라즈베리 각 ¥90 추가 → 두 사람 각 2토핑 ¥1,200=10,800원.",
+        "q": "GUFO 大阪 北堀江",
+        "links": [
+          [
+            "공식 인스타",
+            "https://www.instagram.com/gufoice/"
+          ],
+          [
+            "2026년 소개·메뉴 사진",
+            "https://co-trip.jp/article/731313?page=1"
+          ]
+        ],
+        "origin": "추가 제안 · 호리에 동선 근처"
+      }
+    ]
+  },
+  "osakaMeals": {
+    "d3": [
+      [
+        "아침·점심",
+        "교토에서 식사 후 이동",
+        "오사카 도착 전에 점심 완료. 도후쿠지 관람 전 11:15–12:30 점심 구간 유지."
+      ],
+      [
+        "19:00 저녁",
+        "아지노야 · 오코노미야키",
+        "두 접시 ¥3,760 / 33,840원 또는 2인 B세트 ¥5,340 / 48,060원. 대기 20분 넘으면 마키노·스시로로 전환."
+      ]
+    ],
+    "d4": [
+      [
+        "08:30 아침",
+        "숙소 또는 가까운 편의점",
+        "빵·주먹밥·요거트 등 가볍게. 2인 예상 ¥1,200–2,000 / 10,800–18,000원. 호텔 조식 포함이면 별도 비용 제외."
+      ],
+      [
+        "11:00 점심",
+        "무기토 멘스케 · 닭·조개 육수 라멘",
+        "2인 예상 ¥4,000–6,000 / 36,000–54,000원. 30분 넘는 대기는 와타나베 카레 본점."
+      ],
+      [
+        "18:30 저녁",
+        "스시로 도톤보리 · 회전초밥",
+        "2인 예상 ¥3,000–5,000 / 27,000–45,000원. 면이 당기면 저장 목록의 준도야로 대체."
+      ]
+    ],
+    "d4b": [
+      [
+        "08:30 아침",
+        "숙소 또는 편의점",
+        "2인 예상 ¥1,200–2,000 / 10,800–18,000원."
+      ],
+      [
+        "11:00 점심",
+        "키타타케 우동 · 얇은 면·튀김 우동",
+        "2인 예상 ¥2,000–3,600 / 18,000–32,400원. 대기·품절이면 마키노 난바로."
+      ],
+      [
+        "18:30 저녁",
+        "스시로 도톤보리",
+        "2인 예상 ¥3,000–5,000 / 27,000–45,000원."
+      ]
+    ],
+    "d5": [
+      [
+        "08:30 아침",
+        "가볍게 빵·음료",
+        "10시 이른 점심을 위해 가볍게. 2인 예상 ¥800–1,400 / 7,200–12,600원."
+      ],
+      [
+        "10:00 이른 점심",
+        "치토세 본점 · 니쿠스이+달걀밥",
+        "2인 예상 ¥2,200–3,000 / 19,800–27,000원. 본점 대기는 20분 안쪽; 벳칸은 11시 개점."
+      ],
+      [
+        "14시 전후 배고프면",
+        "PARCO B2 / 다이마루 B2 푸드홀",
+        "주얼리 쇼핑 중간 가까운 실내 식사 대안. 우동·정식 등 메뉴 선택, 2인 예산 ¥2,000–3,500 / 18,000–31,500원. 별도 추가 식사이며 필수 아님."
+      ],
+      [
+        "17:30 저녁",
+        "준도야 · 돈코츠 라멘",
+        "2인 예상 ¥2,000–3,200 / 18,000–28,800원. 호리에에서 먹으면 츠케멘 스즈메로 대체."
+      ]
+    ]
+  },
+  "osakaNearby": {
+    "d3": [
+      {
+        "name": "마키노 난바센니치마에",
+        "menu": "눈앞에서 튀기는 새우·생선·야채 덴푸라 정식",
+        "why": "아지노야 대기가 길 때, 난바파크스에서 도톤보리로 올라가는 동선 근처.",
+        "budget": "2인 예상 ¥3,000–4,400 · 27,000–39,600원",
+        "q": "天ぷらまきの 難波千日前店",
+        "source": "https://www.toridoll.com/shopsearch/makino/",
+        "hours": "지점 최신 시간은 매장 안내 확인 · 19시 저녁 후보",
+        "origin": "사용자 저장 목록"
+      }
+    ],
+    "d4": [
+      {
+        "name": "와타나베 카레 · 우메다 본점",
+        "menu": "스파이스 치킨 카레·오징어먹물 포크 키마",
+        "why": "무기토 멘스케의 대기가 길면 점심을 여기로 전환. 그 뒤 한큐 맨즈로 이동.",
+        "budget": "2인 식사 예산 ¥3,000–4,000 · 27,000–36,000원 (메뉴 확정가 아님)",
+        "q": "渡邊咖喱 梅田本店",
+        "source": "https://watanabecurry.com/",
+        "hours": "일요일 11:30–16:00 마지막 주문 · 토요일 휴무",
+        "origin": "사용자 저장 목록"
+      }
+    ],
+    "d4b": [
+      {
+        "name": "와타나베 카레 · 우메다 본점",
+        "menu": "스파이스 치킨 카레·오징어먹물 포크 키마",
+        "why": "무기토 멘스케의 대기가 길면 점심을 여기로 전환. 그 뒤 한큐 맨즈로 이동.",
+        "budget": "2인 식사 예산 ¥3,000–4,000 · 27,000–36,000원 (메뉴 확정가 아님)",
+        "q": "渡邊咖喱 梅田本店",
+        "source": "https://watanabecurry.com/",
+        "hours": "일요일 11:30–16:00 마지막 주문 · 토요일 휴무",
+        "origin": "사용자 저장 목록"
+      }
+    ],
+    "d5": [
+      {
+        "name": "치토세 벳칸",
+        "menu": "니쿠스이(소고기 맑은국)·달걀밥",
+        "why": "본점 품절·긴 대기 시 난바그랜드카게츠 1층 지점으로 전환. 11시 개점이라 쇼핑 시작이 늦어지면 카페·호리에 시간을 줄이기.",
+        "budget": "2인 니쿠스이+달걀밥 예산 약 ¥3,200 · 28,800원 (주문 가격 확인)",
+        "q": "千とせ べっかん",
+        "source": "https://www.chitose-nikusui.com/chitose/access.html",
+        "hours": "11:00–20:00 · 마지막 주문 19:30 · 정기 휴무 없음",
+        "origin": "같은 브랜드의 본점 플랜 B"
+      },
+      {
+        "name": "츠케멘 스즈메 · 아메리카무라 본점",
+        "menu": "돼지뼈·고등어 육수 츠케멘 · 매운 츠케멘",
+        "why": "오렌지스트리트 구경 후 바로 저녁을 먹고 싶을 때. 준도야 대신 한 곳만 선택.",
+        "budget": "2인 식사 예산 ¥2,000–3,200 · 18,000–28,800원 (메뉴 확정가 아님)",
+        "q": "つけ麺 雀 アメ村本店",
+        "source": "https://suzume-group.co.jp/suzume/",
+        "hours": "10/12 공휴일 11:30–22:00 · 정기 휴무 없음",
+        "origin": "사용자 저장 목록"
+      }
+    ]
+  }
+}
