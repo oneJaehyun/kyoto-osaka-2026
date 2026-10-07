@@ -1,0 +1,86 @@
+{
+  "bridge": {
+    "src": "photos/bridge.jpg",
+    "author": "lumoplank",
+    "license": "CC0",
+    "url": "https://commons.wikimedia.org/wiki/File:Arashiyama,_Part_II_-_Arashiyama7534.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  "bamboo": {
+    "src": "photos/bamboo.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bamboo_Grove,_Arashiyama,_Kyoto,_Japan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "doton": {
+    "src": "photos/doton.jpg",
+    "author": "Type specimen",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Osaka_Dotonbori_Ebisu_Bridge.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "inari": {
+    "src": "photos/inari.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "gion": {
+    "src": "photos/gion.jpg",
+    "author": "663highland",
+    "license": "CC BY 2.5",
+    "url": "https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s3.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+  },
+  "kiyo": {
+    "src": "photos/kiyo.jpg",
+    "author": "Jordy Meow",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "tower": {
+    "src": "photos/tower.jpg",
+    "author": "Don Ramey Logan",
+    "license": "CC BY 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Kyoto_Tower_(%E4%BA%AC%E9%83%BD%E3%82%BF%E3%83%AF%E3%83%BC,_Ky%C5%8Dto-taw%C4%81_by_Don_Ramey_Logan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  "ninen": {
+    "src": "photos/ninen.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pedestrian_road_with_pavements_and_paper_umbrellas,_Higashiyama-ku,_Kyoto,_Japan,_early_morning.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "ponto": {
+    "src": "photos/ponto.jpg",
+    "author": "Wolfiewolf from Pontocho street in Nakagyo, Kyoto",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Pontocho_by_Wolfiewolf_in_Nabeyacho,_Kyoto.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "sannen": {
+    "src": "photos/sannen.jpg",
+    "author": "Andrea Schaffer from Sydney, Australia",
+    "license": "CC BY 2.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Sannenzaka_street,_Kyoto_(3811257874).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  "zen": {
+    "src": "photos/zen.jpg",
+    "author": "osakaosaka",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Tenryuji_Kyoto.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  "yasaka": {
+    "src": "photos/yasaka.jpg",
+    "author": "",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Yasaka_jinja.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  }
+}
